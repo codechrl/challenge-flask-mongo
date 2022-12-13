@@ -1,3 +1,3 @@
 # prototype-flask-mongo
-http://3.101.19.33:5000/api/docs
+https://g1pot7.deta.dev/
  
